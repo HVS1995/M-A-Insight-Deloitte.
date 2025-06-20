@@ -50,6 +50,7 @@ Best practices in Power BI modeling and DAX optimization
 
 Mapping and classifying industries/countries for executive-level insights
 
-![100](https://github.com/user-attachments/assets/47c969da-6aab-4baf-bda5-aea002a9155e)
+![deloitte 1](https://github.com/user-attachments/assets/f3cf94e2-a95b-4f9f-a41d-3d7b68082c96)
+
 
 
